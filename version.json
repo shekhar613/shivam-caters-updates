@@ -1,30 +1,19 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/shekhar613/shivam-caters-updates/releases/download/v1.0.0/Setup_v1.0.0.exe",
-  "release_notes": "Pehla version - Initial release"
+  "release_notes": "Pehla version"
 }
 ```
-⚠️ `shekhar613` apne GitHub username se replace karo!
 
-Neeche **"Commit changes"** click karo → **"Commit directly to main"** → **"Commit changes"**
+⚠️ **Important — Yeh check karo:**
+- Koi extra space nahi hona chahiye
+- Koi extra line nahi honi chahiye file ke end mein
+- Sirf 5 lines honi chahiye exactly jaise upar dikh raha hai
+
+**"Commit changes"** click karo!
 
 ---
 
-### Step 4C: GitHub Pages Enable Karo (Free Hosting)
-
-**1.** Repository mein **"Settings"** tab click karo
-
-**2.** Left sidebar mein **"Pages"** click karo
-
-**3.** Yeh settings karo:
+## Verify Karo — Raw URL Browser Mein Kholo:
 ```
-Source:  Deploy from a branch
-Branch:  main
-Folder:  / (root)
-```
-
-**4.** **"Save"** click karo
-
-**5.** 2-3 minute wait karo — phir aapka URL ready hoga:
-```
-https://shekhar613.github.io/shivam-caters-updates/version.json
+https://raw.githubusercontent.com/shekhar613/shivam-caters-updates/main/version.json
